@@ -1,0 +1,38 @@
+Research name,Publication Title,Author List,Conf/Journal Details,Citation count,Year
+Geoff Hamilton,Distilling Programs to Prove Termination,Geoff Hamilton,arXiv preprint arXiv:2008.02936,0,2020
+Geoff Hamilton,Tight Polynomial Worst-Case Bounds for Loop Programs,"Geoff Hamilton, Amir M Ben-Amram",Logical Methods in Computer Science 16,0,2020
+Geoff Hamilton,Tight Polynomial Worst-Case Bounds for Loop Programs,"Amir M Ben-Amram, Geoff Hamilton",arXiv preprint arXiv:1906.10047,0,2019
+Geoff Hamilton,Tight worst-case bounds for polynomial loop programs,"Amir M Ben-Amram, Geoff Hamilton",International Conference on Foundations of Software Science and Computation …,2,2019
+Geoff Hamilton,Functional Program Transformation for Parallelisation Using Skeletons,"Venkatesh Kannan, Geoff Hamilton",International Journal of Parallel Programming 46 (1) 152-172,0,2018
+Geoff Hamilton,Generating Loop Invariants for Program Verification by Transformation,Geoff Hamilton,arXiv preprint arXiv:1708.07223,0,2017
+Geoff Hamilton,Generating counterexamples for model checking by transformation,Geoff Hamilton,arXiv preprint arXiv:1607.02227,2,2016
+Geoff Hamilton,Program transformation to identify list-based parallel skeletons,"Venkatesh Kannan, Geoff Hamilton",arXiv preprint arXiv:1607.02229,2,2016
+Geoff Hamilton,Proceedings of the Fourth International Workshop on Verification and Program Transformation,"Geoff Hamilton, Alexei Lisitsa, Andrei P Nemytykh",arXiv arXiv: 1607.01835,0,2016
+Geoff Hamilton,Program transformation to identify parallel skeletons,"Venkatesh Kannan, Geoff Hamilton",2016 24th Euromicro International Conference on Parallel Distributed and …,5,2016
+Geoff Hamilton,"Proceedings of the Fourth International Workshop on Verification and Program Transformation Eindhoven, The Netherlands, 2nd April 2016 Preface","Geoff Hamilton, Alexei Lisitsa, Andrei P Nemytykh",ELECTRONIC PROCEEDINGS IN THEORETICAL COMPUTER SCIENCE 1-+,0,2016
+Geoff Hamilton,Distilling new data types,"Venkatesh Kannan, Geoff Hamilton",,0,2016
+Geoff Hamilton,Verifying temporal properties of reactive systems by transformation,Geoff Hamilton,arXiv preprint arXiv:1512.03860,6,2015
+Geoff Hamilton,Enforcing reputation constraints on business process workflows,"Benjamin Aziz, Geoff Hamilton",Journal of Wireless Mobile Networks Ubiquitous Computing and Dependable …,5,2014
+Geoff Hamilton,AutoPar: Automatic Parallelization of Functional Programs,"Michael Dever, Geoff Hamilton",2014 Fourth International Valentin Turchin Workshop on Metacomputation META …,2,2014
+Geoff Hamilton,Extracting Data Parallel Computations from Distilled Programs,"Venkatesh Kannan, Geoff Hamilton",Fourth International Valentin Turchin Workshop on Metacomputa-tion …,2,2014
+Geoff Hamilton,Towards understanding superlinear speedup by distillation,"Neil D Jones, Geoff Hamilton",Fourth International Valentin Turchin Workshop on Metacomputation …,1,2014
+Geoff Hamilton,"Asymptotic speedups, bisimulation and distillation (Work in progress)","Neil D Jones, Geoff Hamilton",International Andrei Ershov Memorial Conference on Perspectives of System …,0,2014
+Geoff Hamilton,Local Driving in Higher-Order Positive Supercompilation via the Omega-theorem,"Geoff Hamilton, Morten Heine Sørensen",EPiC Series in Computing 28 36-51,0,2014
+Geoff Hamilton,Revisiting the ban-modified andrew secure rpc protocol,"Alberto Gugel, Benjamin Aziz, Geoff Hamilton",Journal of Internet Services and Information Security 4 (3) 82-96,2,2014
+Geoff Hamilton,Automatically Partitioning Data to Facilitate the Parallelization of Functional Programs,"Michael Dever, Geoff Hamilton",International Andrei Ershov Memorial Conference on Perspectives of System …,2,2014
+Geoff Hamilton,Reputation-controlled business process workflows,"Benjamin Aziz, Geoff Hamilton",2013 International Conference on Availability Reliability and Security 42-51,3,2013
+Geoff Hamilton,On the Termination of Higher-Order Positive Supercompilation,Geoff Hamilton,Proc. of the First International Workshop on Verification and Program …,1,2013
+Geoff Hamilton,Development of the productive forces,"Gavin Mendel Gleason, Geoff Hamilton",Meta 2012,2,2012
+Geoff Hamilton,A comparison of program transformation systems,"Michael Dever, Geoff Hamilton",META 2012,0,2012
+Geoff Hamilton,Superlinear speedup by program transformation,"Neil D Jones, Geoff Hamilton",Third International Valentin Turchin Workshop on Metacomputation 88,0,2012
+Geoff Hamilton,Automating the parallelization of functional programs,"Michael Dever, Geoff Hamilton",,0,2012
+Geoff Hamilton,A hierarchy of program transformers,Geoff Hamilton,,2,2012
+Geoff Hamilton,Distillation with labelled transition systems,"Geoff Hamilton, Neil D Jones",Proceedings of the ACM SIGPLAN 2012 workshop on Partial evaluation and …,30,2012
+Geoff Hamilton,Proving the correctness of unfold/fold program transformations using bisimulation,"Geoff Hamilton, Neil D Jones",International Andrei Ershov Memorial Conference on Perspectives of System …,8,2011
+Geoff Hamilton,Verifying a delegation protocol for grid systems,"Benjamin Aziz, Geoff Hamilton",Future Generation Computer Systems 27 (5) 476-485,5,2011
+Geoff Hamilton,Supercompilation and normalisation by evaluation,"Gavin Mendel Gleason, Geoff Hamilton",Meta2010,2,2010
+Geoff Hamilton,A graph-based definition of distillation,"Geoff Hamilton, Gavin Mendel Gleason",Meta2010,18,2010
+Geoff Hamilton,Equivalence in supercompilation and normalisation by evaluation,"Gavin Mendel Gleason, Geoff Hamilton",In Second International Workshop on Metacomputation in Russia,4,2010
+Geoff Hamilton,Cyclic Proofs and Coinductive Principles.,"Gavin Mendel Gleason, Geoff Hamilton",PAR@ ITP 107-113,1,2010
+Geoff Hamilton,Detecting man-in-the-middle attacks by precise timing,"Benjamin Aziz, Geoff Hamilton",2009 Third International Conference on Emerging Security Information …,30,2009
+Geoff Hamilton,Extracting the essence of distillation,Geoff Hamilton,International Andrei Ershov Memorial Conference on Perspectives of System …,12,2009
